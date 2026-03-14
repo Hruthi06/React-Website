@@ -1,0 +1,35 @@
+﻿git : From https://gith
+ub.com/Hruthi06/React-W
+ebsite
+At line:1 char:1
++ git pull origin main 
+2>&1 | Out-File 
+-Encoding utf8 
+pull_output.txt
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (From https://   
+ gi...6/React-Websi    
+te:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+ * branch              
+main       -> 
+FETCH_HEAD
+error: Your local 
+changes to the 
+following files would 
+be overwritten by 
+merge:
+	README.md
+Please commit your 
+changes or stash them 
+before you merge.
+Aborting
+Merge with strategy 
+ort failed.
